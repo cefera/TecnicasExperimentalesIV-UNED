@@ -1,4 +1,4 @@
-name: example-environment
+name: TecnicasExperimentalesIV-UNED
 channels:
   - conda-forge
 dependencies:

@@ -1,7 +1,0 @@
-name: TecnicasExperimentalesIV-UNED
-channels:
-  - conda-forge --no-builds
-dependencies:
-  - numpy
-  - scipy
-  - matplotlib

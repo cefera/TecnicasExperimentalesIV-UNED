@@ -4,6 +4,6 @@
 #
 #    pip-compile
 #
-matplotlib==3.8.3
-numpy==1.26
-scipy==1.12
+matplotlib==3.10
+numpy==2.2
+scipy==1.8
